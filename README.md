@@ -3,7 +3,7 @@
 # Install
 ```
 cd $HOME
-git clone https://github.com/MutePuker/TeleMute.git
+git clone https://github.com/LammerTeam/TeleMute.git
 cd TeleMute
 chmod +x install.sh
 chmod +x launch.sh
